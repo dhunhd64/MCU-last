@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My favourite</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Tinos:ital,wght@1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Katibeh&family=Tinos:ital,wght@1,700&display=swap" rel="stylesheet">
+</head>
+<ul class="menu">
+   <li class="links"></li>
+    <li class="links">Films</li>
+    <li class="links">Future</li>
+    <li class="links">Comics</li>
+    <li class="links">Characters</li>
+    </ul>
+    
+    <section id="films">
+        <h1>Films</h1>
+        <div class="line"></div>
+        <br>
+        <iframe width="900" height="500" src="https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Films" frameborder="0"></iframe>
+        <br>
+    </section>
+    
+    <section id="future">
+        <h1>Future</h1>
+        <div class="line"></div>
+        <br>
+        <iframe width="900" height="500" src="https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Future" frameborder="0"></iframe>
+        <br>
+    </section>
+    
+     <section id="comics">
+        <h1>Comics</h1>
+        <div class="line"></div>
+        <br>
+        <iframe width="900" height="500" src="https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Comic_books" frameborder="0"></iframe>
+        <br>
+    </section>
+    
+    <section id="characters">
+        <h1>Characters</h1>
+        <div class="line"></div>
+        <br>
+        <iframe width="900" height="500" src="https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe#Recurring_cast_and_characters" frameborder="0"></iframe>
+        
+        <br>
+    </section>
+<body>
+    <h1>My fovourite:</h1>
+<h2>MCU Movies</h2>
+<h3>Marvel Cinematic Universe</h3>
+<img id="marvel" src="Marvel%20Logo.png">
+<p>The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe centered on a series of superhero films, independently produced by Marvel Studios and based on characters that appear in American comic books published by Marvel Comics. The franchise includes comic books, short films, television series, and digital series. The shared universe, much like the original Marvel Universe in comic books, was established by crossing over common plot elements, settings, cast, and characters. The first MCU film is Iron Man (2008), which began the films of Phase One culminating in the crossover film The Avengers (2012). Phase Two began with Iron Man 3 (2013) and concluded with Ant-Man (2015). Phase Three began with Captain America: Civil War (2016) and concluded with Spider-Man: Far From Home (2019). The first three phases in the franchise are collectively known as "The Infinity Saga". The films of Phase Four will begin with Black Widow (2020) and are set to conclude with Doctor Strange in the Multiverse of Madness (2022). Marvel Television expanded the universe to network television with Agents of S.H.I.E.L.D. on ABC in 2013, followed by online streaming with Daredevil on Netflix in 2015 and Runaways on Hulu in 2017, and cable television with Cloak & Dagger on Freeform in 2018. Marvel Television produced the digital series Agents of S.H.I.E.L.D.: Slingshot. Marvel Studios expanded to online streaming with Disney+ for tie-in shows, starting with The Falcon and the Winter Soldier in 2020 as the first series in Phase Four, along with Helstrom on Hulu, which was inherited from Marvel Television following its closure and folding into Marvel Studios. Soundtrack albums have been released for all the films and many of the television series, as well as compilation albums containing existing music heard in the films. The MCU includes tie-in comics published by Marvel Comics, while Marvel Studios has produced a series of direct-to-video short films, called Marvel One-Shots, and a viral marketing campaign for its films and the universe with the faux news program WHIH Newsfront. The franchise has been commercially successful and has generally received a positive critical response, though some reviewers have found that some of its films and television series have suffered in service of the wider universe. It has inspired other film and television studios with comic book character adaptation rights to attempt to create similar shared universes. The MCU has been the focus of other media, outside of the shared universe, including attractions at various Walt Disney Parks and Resorts, an attraction at Discovery Times Square, a Queensland Gallery of Modern Art exhibit, two television specials, guidebooks for each film, multiple tie-in video games, and commercials.</p>
+</body>
+<h1 id="dif">Avengers</h1>
+<img src="Iron%20Man.png">
+<h1>Iron Man</h1>
+<img src="Captain%20America.png">
+<h1>Captain America</h1>
+<img src="Thor.png">
+<h1>Thor- God of Thunder</h1>
+<img src="Spider%20Man.png">
+<h1>Spider Man</h1>
+<img src="Doctor%20Stramge.png">
+<h1>Doctor Strange</h1>
+<img src="BLACK%20PANTHER.png">
+<h1 id="rip bp">BLACK PANTHER</h1>
+<img src="Ant%20Man.png">
+<h1>Ant Man</h1>
+<img src="Captain%20Marvel.png">
+<h1>Captain Marvel</h1>
+<img src="Hulk.png">
+<h1>Hulk</h1>
+<img src="Black%20Widow.png">
+<h1>Black Widow</h1>
+<img src="Hawkeye.png">
+<h1>Hawkeye</h1>
+<img src="Scarlet%20Witch.png">
+<h1>Scarlet Witch</h1>
+<img src="Vision.png">
+<h1>Vision</h1>
+<img src="Bucky%20Barnes%20aka%20Winter%20Soldier.png">
+<h1>Bucky Barnes aka Winter Soldier</h1>
+<img src="Falcon.png">
+<h1>Falcon</h1>
+<img src="War%20Machine.png">
+<h1>War Machine</h1>
+<img src="Quicksilver.png">
+<h1>Quicksilver</h1>
+</html>
